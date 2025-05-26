@@ -15,7 +15,6 @@ Esses requisitos são obrigatórios e devem ser desenvolvidos para a entrega do 
 Implementar as operações de **criação (POST)**, **consulta (GET)** (Por Id e GetAll), **atualização (PUT)** e **exclusão (DELETE)** de todas as entidades do seguinte diagrama:
 
 [image](https://github.com/user-attachments/assets/4218852d-b517-4cd2-9651-1583dacba73d)
-)
 
 ### Métodos
 
