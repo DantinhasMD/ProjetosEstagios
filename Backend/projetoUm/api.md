@@ -27,10 +27,10 @@ Para entender mais e usar a API você pode utilizar o [projeto do postman](anexo
 * Entre na sessão de desenvolvedor [Meus Aplicativos](http://www.sptrans.com.br/desenvolvedores/perfil-desenvolvedor/meus-aplicativos/) e adicione um novo aplicativo
 * Copie a "Chave" do aplicativo desejado
 
-![Chave](imagens/chave_api_exemplo.png)
+![image](https://github.com/user-attachments/assets/31b8febc-2ce6-4b95-812f-fd1112c311d2)
 
 * Cole a "Chave" na variável do projeto `token`
 
-![Variaveis do postman](imagens/postman_variaveis.png)
+![image](https://github.com/user-attachments/assets/df46145b-9208-4b96-a909-3ad80b8978de)
 
 * Envie a requisição `POST` chamada de `Autenticação` no projeto, se for retornado `true` o acesso a API foi concedido para chave inserida e já é possível enviar as outras requisições.
